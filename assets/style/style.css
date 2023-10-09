@@ -1,5 +1,5 @@
 .coffee-landing-page {
-    background-color: #ffefef;
+    background-color: #270d0d;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -377,6 +377,7 @@
   
   .coffee-landing-page .group-8 {
     position: absolute;
+    background-color: #270d0d;
     width: 1175px;
     height: 404px;
     top: 2896px;
